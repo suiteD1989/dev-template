@@ -1,0 +1,31 @@
+{
+  "name": "freebets.net",
+  "version": "1.0.0",
+  "description": "source files for freebets.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daragh Cassidy",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.1.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-order": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglify-es": "^1.0.1",
+    "jquery": "^3.3.1",
+    "jshint": "^2.9.5",
+    "parsleyjs": "^2.8.1",
+    "popper.js": "^1.14.3"
+  },
+  "dependencies": {
+    "gulp-uglifyes": "^0.1.3"
+  }
+}
